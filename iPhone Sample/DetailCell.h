@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-
+//单元子类
 @interface DetailCell : UITableViewCell {
 
 }
