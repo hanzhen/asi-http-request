@@ -29,7 +29,7 @@
 	}
 	return cell;	
 }
-
+//n. 布局；设计；安排；陈列
 - (void)layoutSubviews
 {
 	[super layoutSubviews];
