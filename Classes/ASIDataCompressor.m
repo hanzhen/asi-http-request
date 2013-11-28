@@ -65,7 +65,7 @@
 	}
 	return nil;
 }
-
+//学习
 - (NSData *)compressBytes:(Bytef *)bytes length:(NSUInteger)length error:(NSError **)err shouldFinish:(BOOL)shouldFinish
 {
 	if (length == 0) return nil;
